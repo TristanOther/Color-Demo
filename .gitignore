@@ -1,3 +1,6 @@
+# The output images which are generated so don't commit them.
+out/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
